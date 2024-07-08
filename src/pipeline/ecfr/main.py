@@ -1,5 +1,5 @@
 
-import os
+import os, json
 import requests
 from environment import Environment
 
@@ -36,6 +36,10 @@ def save_section(date, xml, practice, title, chapter, part, subpart, section):
     os.makedirs(os.path.dirname(xml_file_path), exist_ok=True)
     with open(xml_file_path, 'w') as xml_file:
         xml_file.write(xml)
+    metadata = {"date": date, "data": { "title": title, "chapter": chapter, "part": part, "subpart": subpart, "section": section }}
+    json_file_path = xml_file_path.replace("source.xml","metadata.json")
+    with open(json_file_path, 'w') as json_file:
+        json_file.write(json.dumps(metadata))
     return xml_file_path
 
 def main():
@@ -45,6 +49,5 @@ def main():
         xml = get_section(date=section["date"], title=section["title"], subpart=section["subpart"], identifier=section["identifier"])
         xml_file_path = save_section(date=section["date"], xml=xml, practice=Environment.practice, title=section["title"], chapter=Environment.cfr_chapter, part=section["part"], subpart=section["subpart"], section=section["identifier"])
         print(xml_file_path)
-
 if __name__ == "__main__":
     main()
