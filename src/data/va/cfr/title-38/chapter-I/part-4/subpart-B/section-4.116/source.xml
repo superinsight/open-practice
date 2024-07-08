@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <DIV8 N="4.116" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-38/section-4.116&quot;,&quot;citation&quot;:&quot;38 CFR 4.116&quot;}">
-<HEAD>Â§ 4.116 Schedule of ratings - gynecological conditions and disorders of the breast.</HEAD>
+<HEAD>Â§ 4.116 Schedule of ratingsâgynecological conditions and disorders of the breast.</HEAD>
 <DIV width="100%"><DIV class="gpotbl_div"><TABLE border="1" cellpadding="1" cellspacing="1" class="gpotbl_table" frame="void" width="100%"><TR><TH class="gpotbl_colhed" scope="col">
 </TH><TH class="gpotbl_colhed" scope="col">Rating
 </TH></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em"><E T="02">Note 1:</E> Natural menopause, primary amenorrhea, and pregnancy and childbirth are not disabilities for rating purposes. Chronic residuals of medical or surgical complications of pregnancy may be disabilities for rating purposes.
 </TD><TD align="right" class="gpotbl_cell"></TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em"><E T="02">Note 2:</E> When evaluating any claim involving loss or loss of use of one or more creative organs or anatomical loss of one or both breasts, refer to Â§ 3.350 of this chapter to determine whether the veteran may be entitled to special monthly compensation. Footnotes in the schedule indicate conditions which potentially establish entitlement to special monthly compensation; however, almost any condition in this section might, under certain circumstances, establish entitlement to special monthly compensation.
-</TD><TD align="right" class="gpotbl_cell"></TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">7610 Vulva, disease or injury of (including vulvovaginitis).
+</TD><TD align="right" class="gpotbl_cell"></TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">7610 Vulva or clitoris, disease or injury of (including vulvovaginitis)
 </TD><TD align="right" class="gpotbl_cell"></TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">7611 Vagina, disease or injury of.
 </TD><TD align="right" class="gpotbl_cell"></TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">7612 Cervix, disease or injury of.
 </TD><TD align="right" class="gpotbl_cell"></TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">7613 Uterus, disease, injury, or adhesions of.
@@ -15,6 +15,7 @@
 </TD><TD align="right" class="gpotbl_cell"></TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Symptoms not controlled by continuous treatment</TD><TD align="right" class="gpotbl_cell">30
 </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Symptoms that require continuous treatment</TD><TD align="right" class="gpotbl_cell">10
 </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Symptoms that do not require continuous treatment</TD><TD align="right" class="gpotbl_cell">0
+</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em"><E T="02">Note:</E> For the purpose of VA disability evaluation, a disease, injury, or adhesions of the ovaries resulting in ovarian dysfunction affecting the menstrual cycle, such as dysmenorrhea and secondary amenorrhea, shall be rated under diagnostic code 7615</TD><TD align="right" class="gpotbl_cell">
 </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">7617 Uterus and both ovaries, removal of, complete:
 </TD><TD align="right" class="gpotbl_cell"></TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">For three months after removal</TD><TD align="right" class="gpotbl_cell">
 <sup>1</sup> 100
@@ -33,18 +34,12 @@
 <sup>1</sup> 30
 </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 8em">Removal of one with or without partial removal of the other</TD><TD align="right" class="gpotbl_cell">
 <sup>1</sup> 0
-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">7620 Ovaries, atrophy of both, complete</TD><TD align="right" class="gpotbl_cell">
+</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em"><E T="02">Note:</E> In cases of the removal of one ovary as the result of a service-connected injury or disease, with the absence or nonfunctioning of a second ovary unrelated to service, an evaluation of 30 percent will be assigned for the service-connected ovarian loss
+</TD><TD align="right" class="gpotbl_cell"></TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">7620 Ovaries, atrophy of both, complete</TD><TD align="right" class="gpotbl_cell">
 <sup>1</sup> 20
-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">7621 Uterus, prolapse:
-</TD><TD align="right" class="gpotbl_cell"></TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Complete, through vagina and introitus</TD><TD align="right" class="gpotbl_cell">50
-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Incomplete</TD><TD align="right" class="gpotbl_cell">30
-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">7622 Uterus, displacement of:
-</TD><TD align="right" class="gpotbl_cell"></TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">With marked displacement and frequent or continuous menstrual disturbances</TD><TD align="right" class="gpotbl_cell">30
-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">With adhesions and irregular menstruation</TD><TD align="right" class="gpotbl_cell">10
-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">7623 Pregnancy, surgical complications of:
-</TD><TD align="right" class="gpotbl_cell"></TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">With rectocele or cystocele</TD><TD align="right" class="gpotbl_cell">50
-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">With relaxation of perineum</TD><TD align="right" class="gpotbl_cell">10
-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">7624 Fistula, rectovaginal:
+</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">7621 Complete or incomplete pelvic organ prolapse due to injury, disease, or surgical complications of pregnancy</TD><TD align="right" class="gpotbl_cell">10
+</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em"><E T="02">Note:</E> Pelvic organ prolapse occurs when a pelvic organ such as bladder, urethra, uterus, vagina, small bowel, or rectum drops (prolapse) from its normal place in the abdomen. Conditions associated with pelvic organ prolapse include: uterine or vaginal vault prolapse, cystocele, urethrocele, rectocele, enterocele, or any combination thereof. Evaluate pelvic organ prolapse under DC 7621. Evaluate separately any genitourinary, digestive, or skin symptoms under the appropriate diagnostic code(s) and combine all evaluations with the 10 percent evaluation under DC 7621
+</TD><TD align="right" class="gpotbl_cell"></TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">7624 Fistula, rectovaginal:
 </TD><TD align="right" class="gpotbl_cell"></TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Vaginal fecal leakage at least once a day requiring wearing of pad</TD><TD align="right" class="gpotbl_cell">100
 </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Vaginal fecal leakage four or more times per week, but less than daily, requiring wearing of pad</TD><TD align="right" class="gpotbl_cell">60
 </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Vaginal fecal leakage one to three times per week requiring wearing of pad</TD><TD align="right" class="gpotbl_cell">30
@@ -78,16 +73,23 @@
 </TD><TD align="right" class="gpotbl_cell"></TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 8em">(2) <E T="03">Modified radical mastectomy</E> means removal of the entire breast and axillary lymph nodes (in continuity with the breast). Pectoral muscles are left intact.
 </TD><TD align="right" class="gpotbl_cell"></TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 8em">(3) <E T="03">Simple (or total) mastectomy</E> means removal of all of the breast tissue, nipple, and a small portion of the overlying skin, but lymph nodes and muscles are left intact.
 </TD><TD align="right" class="gpotbl_cell"></TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 8em">(4) <E T="03">Wide local excision</E> (including partial mastectomy, lumpectomy, tylectomy, segmentectomy, and quadrantectomy) means removal of a portion of the breast tissue.
-</TD><TD align="right" class="gpotbl_cell"></TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">7627 Malignant neoplasms of gynecological system or breast</TD><TD align="right" class="gpotbl_cell">100
-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em"><E T="02">Note:</E> A rating of 100 percent shall continue beyond the cessation of any surgical, X-ray, antineoplastic chemotherapy or other therapeutic procedure. Six months after discontinuance of such treatment, the appropriate disability rating shall be determined by mandatory VA examination. Any change in evaluation based upon that or any subsequent examination shall be subject to the provisions of Â§ 3.105(e) of this chapter. If there has been no local recurrence or metastasis, rate on residuals.
-</TD><TD align="right" class="gpotbl_cell"></TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">7628 Benign neoplasms of the gynecological system or breast. Rate according to impairment in function of the urinary or gynecological systems, or skin.
+</TD><TD align="right" class="gpotbl_cell"></TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">7627 Malignant neoplasms of gynecological system</TD><TD align="right" class="gpotbl_cell">100
+</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em"><E T="02">Note:</E> A rating of 100 percent shall continue beyond the cessation of any surgical, radiation, antineoplastic chemotherapy or other therapeutic procedures. Six months after discontinuance of such treatment, the appropriate disability rating shall be determined by mandatory VA examination. Any change in evaluation based upon that or any subsequent examination shall be subject to the provisions of Â§ 3.105(e) of this chapter. Rate chronic residuals to include scars, lymphedema, disfigurement, and/or other impairment of function under the appropriate diagnostic code(s) within the appropriate body system
+</TD><TD align="right" class="gpotbl_cell"></TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">7628 Benign neoplasms of gynecological system. Rate chronic residuals to include scars, lymphedema, disfigurement, and/or other impairment of function under the appropriate diagnostic code(s) within the appropriate body system
 </TD><TD align="right" class="gpotbl_cell"></TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">7629 Endometriosis:
 </TD><TD align="right" class="gpotbl_cell"></TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Lesions involving bowel or bladder confirmed by laparoscopy, pelvic pain or heavy or irregular bleeding not controlled by treatment, and bowel or bladder symptoms</TD><TD align="right" class="gpotbl_cell">50
 </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Pelvic pain or heavy or irregular bleeding not controlled by treatment</TD><TD align="right" class="gpotbl_cell">30
 </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Pelvic pain or heavy or irregular bleeding requiring continuous treatment for control</TD><TD align="right" class="gpotbl_cell">10
 </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em"><E T="02">Note:</E> Diagnosis of endometriosis must be substantiated by laparoscopy.
-</TD><TD align="right" class="gpotbl_cell"></TD></TR></TABLE></DIV><DIV class="table_foot"><P class="gpotbl_note">
+</TD><TD align="right" class="gpotbl_cell"></TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">7630 Malignant neoplasms of the breast</TD><TD align="right" class="gpotbl_cell">100
+</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em"><E T="02">Note:</E> A rating of 100 percent shall continue beyond the cessation of any surgical, radiation, antineoplastic chemotherapy or other therapeutic procedure. Six months after discontinuance of such treatment, the appropriate disability rating shall be determined by mandatory VA examination. Any change in evaluation based upon that or any subsequent examination shall be subject to the provisions of Â§ 3.105(e) of this chapter. Rate chronic residuals according to impairment of function due to scars, lymphedema, or disfigurement (e.g., limitation of arm, shoulder, and wrist motion, or loss of grip strength, or loss of sensation, or residuals from harvesting of muscles for reconstructive purposes), and/or under diagnostic code 7626
+</TD><TD align="right" class="gpotbl_cell"></TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">7631 Benign neoplasms of the breast and other injuries of the breast. Rate chronic residuals according to impairment of function due to scars, lymphedema, or disfigurement (e.g., limitation of arm, shoulder, and wrist motion, or loss of grip strength, or loss of sensation, or residuals from harvesting of muscles for reconstructive purposes), and/or under diagnostic code 7626
+</TD><TD align="right" class="gpotbl_cell"></TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">7632 Female sexual arousal disorder (FSAD)</TD><TD align="right" class="gpotbl_cell">
+<sup>1</sup> 0
+</TD></TR></TABLE></DIV><DIV class="table_foot"><P class="gpotbl_note">
 <sup>1</sup> Review for entitlement to special monthly compensation under Â§ 3.350 of this chapter.</P></DIV></DIV>
-<CITA TYPE="N">[60 FR 19855, Apr. 21, 1995, as amended at 67 FR 6874, Feb. 14, 2002; 67 FR 37695, May 30, 2002]
+<SECAUTH TYPE="N">(Authority: 38 U.S.C. 1155)
+</SECAUTH>
+<CITA TYPE="N">[60 FR 19855, Apr. 21, 1995, as amended at 67 FR 6874, Feb. 14, 2002; 67 FR 37695, May 30, 2002; 83 FR 15071, Apr. 9, 2018]
 </CITA>
 </DIV8>
